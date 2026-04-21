@@ -42,7 +42,7 @@ int|float|if|else|while|return  {
 }
 %%
 int yywrap() {
-   retuen 1;
+   return 1;
 }
 
 
